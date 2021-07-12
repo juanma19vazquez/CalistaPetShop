@@ -15,7 +15,7 @@ header{
   position: fixed;
   height: 50px;
   right: 3px;
-  top: 60vh;
+  bottom: 15vh;
   z-index: 3;
 }
 /* menu */
@@ -180,10 +180,7 @@ p{
 @media (min-width:420px){
 
 .claseiconowa {
-  position: fixed;
   height: 60px;
-  right: 3px;
-  top: 60vh;
 }
 
 .grid{

@@ -14,7 +14,7 @@ header{
   position: fixed;
   height: 50px;
   right: 3px;
-  top: 60vh;
+  bottom: 15vh;
   z-index: 3;
 }
 /* menu */
@@ -363,4 +363,3 @@ footer>ul>li{
     height: 210px;
   }
 }
-|
